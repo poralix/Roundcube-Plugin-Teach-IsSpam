@@ -1,0 +1,7 @@
+<?php
+#
+# Roundcube-Plugin-Teach-IsSpam
+#
+# Where to move emails reported as Junk 
+#
+$config['teachisspam_mbox'] = 'INBOX.teach-isspam';
