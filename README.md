@@ -26,7 +26,7 @@ cd ../
 Make sure to copy `config.inc.php.dist` to `config.inc.php`, and update it if it's nesessary.
 
 ```
-cp config.inc.php.dist to config.inc.php
+cp config.inc.php.dist config.inc.php
 ```
 
 And enable the plugin in Roundcube `config.inc.php` for this:
